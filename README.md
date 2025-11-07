@@ -1,16 +1,20 @@
-## Hi there 👋
+### 👋 Bienvenido a mi perfil
 
-<!--
-**lgarciassps/lgarciassps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🙍‍♂️ Mi nombre es Luis García
 
-Here are some ideas to get you started:
+## Consultor Backend en SPS 👨‍🏫
+[![](https://img.shields.io/badge/Mail-lgarcias@spsolutions.com.mx.com-orange)](mailto:lgarcias@spsolutions.com.mx)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Soy un desarrollador de software Fullstack, he participado mayormente en el desarrollo de platformas Web y más recientemente en la creación de aplicaciones móviles híbridas. 
+
+### Mis Habilidades
+
+ - Python (Flask)
+ - Dart (Flutter)
+ - Java (Spring Boot)
+ - AWS (EC2, S3, RDS)
+ - Javascript
+ - HTML
+ - CSS
+ - MySQL
+ - Aprendiento Angular
